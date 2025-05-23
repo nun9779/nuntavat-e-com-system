@@ -17,7 +17,7 @@ function App() {
 
         </a>
       </div>
-      <h1>E-Com System 8.0.0 fixed bug (add login page) (update label cart button) (add grid ui)</h1>
+      <h1>E-Com System 8.0.1 fixed bug (add login page) (update label cart button) (add grid ui)</h1>
       <div className="card">
         <button onClick={() => setCount((count) => count + 1)}>
           count is {count}
